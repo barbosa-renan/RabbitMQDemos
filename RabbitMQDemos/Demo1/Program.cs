@@ -13,7 +13,7 @@ using var connection = connectionFactory.CreateConnection();
 using var model = connection.CreateModel();
 model.ConfirmSelect();
 
-model.ExchangeDeclare(exchange: "hello_exchange", type: "FANOUT", durable: true, autoDelete: false, arguments: null);
+model.ExchangeDeclare(exchange: "hello_exchange", type: "fanout", durable: true, autoDelete: false, arguments: null);
 model.QueueDeclare(queue: "hello_queue", durable: true, exclusive: false, autoDelete: false, arguments: null);
 model.QueueBind(queue: "hello_queue", exchange: "hello_exchange", routingKey: String.Empty, arguments: null);
 

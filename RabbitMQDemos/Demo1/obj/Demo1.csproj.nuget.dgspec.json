@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj": {}
+    "c:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj": {}
   },
   "projects": {
-    "C:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj": {
+    "c:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj",
+        "projectUniqueName": "c:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj",
         "projectName": "Demo1",
-        "projectPath": "C:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj",
+        "projectPath": "c:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\Demo1.csproj",
         "packagesPath": "C:\\Users\\rnn2\\.nuget\\packages\\",
-        "outputPath": "C:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\obj\\",
+        "outputPath": "c:\\_dev\\rabbit-mq-demos\\RabbitMQDemos\\Demo1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

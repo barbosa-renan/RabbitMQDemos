@@ -1,0 +1,17 @@
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\bin\Debug\net6.0\Demo1.exe
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\bin\Debug\net6.0\Demo1.deps.json
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\bin\Debug\net6.0\Demo1.runtimeconfig.json
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\bin\Debug\net6.0\Demo1.dll
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\bin\Debug\net6.0\Demo1.pdb
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.csproj.AssemblyReference.cache
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfoInputs.cache
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfo.cs
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.csproj.CoreCompileInputs.cache
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.csproj.CopyComplete
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.dll
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\refint\Demo1.dll
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.pdb
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\Demo1.genruntimeconfig.cache
+C:\_dev\rabbit-mq-demos\RabbitMQDemos\Demo1\obj\Debug\net6.0\ref\Demo1.dll
